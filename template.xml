@@ -5,17 +5,17 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Title of Work</title>
-        <author>Name of Author</author>
-        <editor>Name of Editor</editor>
+        <title>Chronica diuersis libris collecta</title>
+        <author>Richard of Poitiers</author>
+        <editor>Marc Saurette</editor>
       </titleStmt>
       <editionStmt>
-        <edition>First Edition</edition>
+        <edition>First Complete Edition</edition>
       </editionStmt>
       <publicationStmt>
         <publisher>Society for Classical Studies</publisher>
         <distributor>Digital Latin Library</distributor>
-        <date>2016</date>
+        <date>2018</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/"> Distributed under a
             Creative Commons Attribution 4.0 International License.</licence>
